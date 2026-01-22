@@ -1,5 +1,4 @@
 <!---------------------- color switcher starts ---------------------->
-
 <div class="switcher-wrapper">
     <button class="switcher-trigger"><i class="mdi mdi-cog mdi-spin"></i></button>
     <div class="switcher-inner">
@@ -14,5 +13,4 @@
         </ul>
     </div>
 </div>
-
 <!---------------------- end of color switcher ---------------------->

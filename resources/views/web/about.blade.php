@@ -235,7 +235,6 @@
                 duration: 6000,
                 backgroundColor: '#2b2a2a',
             });
-
             // ------------------------ end of LineProgressbar
         });
     </script>

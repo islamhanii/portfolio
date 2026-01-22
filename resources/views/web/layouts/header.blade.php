@@ -31,7 +31,6 @@
 <!---------------------- end of navigator ---------------------->
 
 <!---------------------- mobile-menu starts ---------------------->
-
 <nav class="mobile-nav">
     <div class="container-fluid">
         <div class="page-title col-10 px-0 float-left">
